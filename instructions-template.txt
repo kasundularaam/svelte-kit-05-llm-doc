@@ -1,0 +1,14 @@
+Project Name:
+Project Dir:
+Styles: Tailwind CSS (typography, forms, container-queries)
+Theme:
+Primary Color:
+Secondary Color:
+Font:
+
+This project is being developed using SvelteKit 05. You must have to use Svelte Runes for reactivity.
+You have provided documentation for latest SvelteKit version (05).
+Runes related documentation files can be identified by the file name. it looks like = `runes-(rune type).txt`
+You have to refer other files which are names start with `sveltekit-` files to help to develop the project with Svelte Kit 05 without facing issues.
+Always Use server side codes with page.server.routename.ts and layout.server.routename.ts. never use page.ts or layout.ts
+Use Cookies with session ids for authentication.
