@@ -5,10 +5,12 @@ Theme:
 Primary Color:
 Secondary Color:
 Font:
+Icons: Font Awesome Free Icons
+
 
 This project is being developed using SvelteKit 05. You must have to use Svelte Runes for reactivity.
-You have provided documentation for latest SvelteKit version (05).
-Runes related documentation files can be identified by the file name. it looks like = `runes-(rune type).txt`
-You have to refer other files which are names start with `sveltekit-` files to help to develop the project with Svelte Kit 05 without facing issues.
-Always Use server side codes with page.server.routename.ts and layout.server.routename.ts. never use page.ts or layout.ts
-Use Cookies with session ids for authentication.
+You have provided documentation for the latest SvelteKit version (05).
+Runes-related documentation files can be identified by the file name. it looks like = `runes-(rune type).txt`
+You have to refer to other files whose names start with `sveltekit-` files to help develop the project with Svelte Kit 05 without facing issues.
+Always Use server-side codes with page.server.routename.ts and layout.server.routename.ts. never use page.ts or layout.ts
+Use Cookies with session IDs for authentication.
